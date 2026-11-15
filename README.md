@@ -1,13 +1,22 @@
  
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=180&section=header&text=Ikram%20Belkhaoua&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Developer%20%7C%20Data%20%26%20AI%20Enthusiast&descSize=16&descAlignY=55" width="100%" />
-
-<img src="https://readme-typing-svg.demolab.com?font=Georgia&size=19&duration=3000&pause=1000&color=B57EDC&center=true&vCenter=true&width=650&lines=Turning+ideas+into+beautiful+solutions+%E2%9C%A8;Exploring+the+world+of+Data+%26+AI+%F0%9F%A4%96;Building+with+curiosity%2C+logic+%26+creativity+%F0%9F%8C%B8" alt="Typing SVG" />
+<img src="assets/ikram-profile-banner.png"
+     width="100%"
+     alt="Ikram Belkhaoua — Floral AI and Technology Banner" />
 
 <br/>
 
-*"Where creativity meets logic, beautiful things happen."* 🌷
+<h1>Hi, I'm Ikram Belkhaoua 🌸</h1>
+
+<h3>Software Developer | Data & AI Enthusiast</h3>
+
+<img src="https://readme-typing-svg.demolab.com?font=Georgia&size=19&duration=3000&pause=1000&color=B57EDC&center=true&vCenter=true&width=650&lines=Turning+ideas+into+beautiful+solutions;Exploring+Machine+Learning+%26+AI;Building+with+curiosity%2C+logic+%26+creativity"
+alt="Typing introduction"/>
+
+<br/>
+
+<i>"Where creativity meets logic, beautiful things happen."</i> 🌷
 
 </div>
 
